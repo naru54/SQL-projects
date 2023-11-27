@@ -55,7 +55,7 @@
        FOREIGN KEY (order_id) REFERENCES orders(order_id)
    );
 
-
+----
 
 1. Inserting Products:
 
