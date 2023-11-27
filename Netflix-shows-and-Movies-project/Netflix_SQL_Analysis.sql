@@ -6,7 +6,7 @@ FROM shows_movies.titles
 WHERE imdb_score >= 8.0
 AND type = 'MOVIE'
 ORDER BY imdb_score DESC
-LIMIT 10
+LIMIT 10 
 
 -- What were the top 10 shows according to IMDB score? 
 SELECT title, 
