@@ -119,7 +119,5 @@ This project provides a foundation for managing an e-commerce system using SQL. 
 
 Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
