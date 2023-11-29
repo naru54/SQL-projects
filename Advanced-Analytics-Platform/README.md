@@ -83,7 +83,7 @@ The database schema includes tables for sales, products, customers, and employee
    ORDER BY total_sales DESC;
    ```
 # Advanced sql queries:
-<a href="" >Check here for advance sql queries.</a>
+Check <a href="https://github.com/naru54/SQL-projects/blob/master/Advanced-Analytics-Platform/advanced-sql-queries.sql" >here</a> for advanced sql queries.
 
 ## Files
 
