@@ -49,7 +49,7 @@
    JOIN employees ON sales.employee_id = employees.employee_id
    GROUP BY employee_name
    ORDER BY avg_monthly_sales DESC;
-   ```
+   
 
 6. For each product category, what is the average time between purchases for returning customers?
  
