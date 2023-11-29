@@ -38,11 +38,6 @@ You can use this dataset to build your own project and practice your SQL skills.
 
 ---
 
-## Badges
-
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
 ## Questions Answered
 
 The following are a few of the questions that are answered in the project (check out <a href="https://github.com/naru54/SQL-projects/blob/master/Music-store-data-analysis-project/analysis.sql">analysis.sql</a> file for the rest):
